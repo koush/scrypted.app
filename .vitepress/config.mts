@@ -16,8 +16,8 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Documentation', link: 'https://docs.scrypted.app' },
-      { text: 'Login to Cloud', link: 'https://home.scrypted.app' },
-      { text: 'Billing', link: 'https://billing.scrypted.app' }
+      { text: 'Cloud Portal', link: 'https://home.scrypted.app' },
+      { text: 'Billing Portal', link: 'https://billing.scrypted.app' }
     ],
 
     socialLinks: [
