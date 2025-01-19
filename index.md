@@ -18,7 +18,7 @@ hero:
 
 features:
   - title: HomeKit
-    details: Stream to HomeKit, including HomeKit Secure Video support for smart detections.
+    details: Stream to HomeKit, including HomeKit Secure Video recorded events in iCloud and smart detections.
     link: https://docs.scrypted.app/homekit.html
     icon: >
       <svg version="1.1" id="Livello_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
@@ -146,6 +146,7 @@ features:
 
   - title: Scrypted NVR
     details: Scrypted NVR is a Scrypted Plugin that provides 24/7 recording and smart detections, with accompanying mobile and desktop applications.
+    link: https://demo.scrypted.app
     icon: >
       <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512"><rect width="512" height="512" style="fill: #6200EA;"></rect><path style="fill: white;" d="M184 24c0-13.3-10.7-24-24-24s-24 10.7-24 24l0 40-8 0c-35.3 0-64 28.7-64 64l0 8-40 0c-13.3 0-24 10.7-24 24s10.7 24 24 24l40 0 0 48-40 0c-13.3 0-24 10.7-24 24s10.7 24 24 24l40 0 0 48-40 0c-13.3 0-24 10.7-24 24s10.7 24 24 24l40 0 0 8c0 35.3 28.7 64 64 64l8 0 0 40c0 13.3 10.7 24 24 24s24-10.7 24-24l0-40 48 0 0 40c0 13.3 10.7 24 24 24s24-10.7 24-24l0-40 48 0 0 40c0 13.3 10.7 24 24 24s24-10.7 24-24l0-40 8 0c35.3 0 64-28.7 64-64l0-8 40 0c13.3 0 24-10.7 24-24s-10.7-24-24-24l-40 0 0-48 40 0c13.3 0 24-10.7 24-24s-10.7-24-24-24l-40 0 0-48 40 0c13.3 0 24-10.7 24-24s-10.7-24-24-24l-40 0 0-8c0-35.3-28.7-64-64-64l-8 0 0-40c0-13.3-10.7-24-24-24s-24 10.7-24 24l0 40-48 0 0-40c0-13.3-10.7-24-24-24s-24 10.7-24 24l0 40-48 0 0-40zM400 128l0 256c0 8.8-7.2 16-16 16l-256 0c-8.8 0-16-7.2-16-16l0-256c0-8.8 7.2-16 16-16l256 0c8.8 0 16 7.2 16 16zM192 160c-17.7 0-32 14.3-32 32l0 128c0 17.7 14.3 32 32 32l128 0c17.7 0 32-14.3 32-32l0-128c0-17.7-14.3-32-32-32l-128 0zm16 48l96 0 0 96-96 0 0-96z"/></svg>
 ---
