@@ -5,7 +5,6 @@ layout: home
 hero:
   name: "Scrypted"
   text: "Video Integration Platform"
-  # tagline: My great project tagline
   actions:
     - theme: brand
       text: What is Scrypted?
